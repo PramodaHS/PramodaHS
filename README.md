@@ -50,7 +50,7 @@
 ---
 
 ## 📬 Contact Me
-- ✉️ **Email**: pramodh1048@gmail.com
+- ✉️ **Email**: hspramoda8@gmail.com
 - 🔗 **LinkedIn**: [Pramoda HS](https://www.linkedin.com/in/pramod-hs29)
 
 ---
