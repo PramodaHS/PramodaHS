@@ -43,12 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodaHS&layout=compact&theme=radical)
-
----
-
 ## 📬 Contact Me
 - ✉️ **Email**: hspramoda8@gmail.com
 - 🔗 **LinkedIn**: [Pramoda HS](https://www.linkedin.com/in/pramod-hs29)
