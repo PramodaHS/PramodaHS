@@ -41,8 +41,10 @@
 
 ## 🌱 Recent Projects
 - 🛠️ Designed and deployed AWS EKS clusters using Terraform and Helm Charts.
-- ⚙️ Automated infrastructure provisioning with Ansible and Terraform.
+- 🏗️ Automated infrastructure provisioning with Ansible and Terraform.
 - 🔎 Set up end-to-end monitoring with Prometheus and Grafana for microservices on Kubernetes.
+- ⚙️ Architected and deployed secure, scalable **AWS infrastructure** across multiple environments
+- 🚀 Built and maintained automated **CI/CD pipelines** using Jenkins and GitHub Actions
 
 ---
 
