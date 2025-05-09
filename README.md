@@ -5,7 +5,7 @@
 ###
 # 👋 Hey, I'm Pramoda HS!
 
-🚀 **DevOps Professional** with 5+ years of experience in designing and deploying cloud infrastructure solutions.  
+🚀 **Cloud & DevOps Professional** with 5+ years of experience in designing and deploying cloud infrastructure solutions.  
 🔧 Focused on automating deployments, optimizing workflows, and building scalable, high-performance environments.
 
 ---
